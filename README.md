@@ -9,7 +9,8 @@ npx `` all these come build with node, so node is a wrapper around  v8 so v8.
 
 V8 is a javaScript engine 
 
-## e.g.
+## How do I start with Node.js after I installed it?
+Once we have installed Node.js, let's build our first web server. Create a file named app.js containing the following contents:
 ```
 const http = require('http');
 
