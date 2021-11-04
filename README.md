@@ -27,6 +27,6 @@ server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 ```
-Now, run your web server using node app.js. Visit http://localhost:3000 and you will see a message saying "Hello World".
+Now, run your web server using ```$node app.js```. Visit http://localhost:3000 and you will see a message saying "Hello World".
 
 Ref: [https://nodejs.org/en/docs/guides/getting-started-guide/](https://nodejs.org/en/docs/guides/getting-started-guide/)
