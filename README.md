@@ -33,7 +33,8 @@ Now, run your web server using ```$node app.js```. Visit http://localhost:3000 a
 #### Step 1: ```$ npm init``` , package.json file will be created
 #### Step 2: ``` "start":"node app.js", "dev": "nodemon app.js", // add these lines``` ,
 in to the package.json file 
-
+#### Step 3: Run ``` $ npm run dev ``` ,
+Nodemon will start
 #### Step 3: Check the Project folder name will be sitting to the same folder as, ```name: projectName
 
 Ref: [https://nodejs.org/en/docs/guides/getting-started-guide/](https://nodejs.org/en/docs/guides/getting-started-guide/)
