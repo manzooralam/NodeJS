@@ -1,0 +1,1 @@
+"use strict";var http=require("http"),dt=require("./myModule/getDate"),hostname="127.0.0.1",port=3e3,server=http.createServer(function(t,e){e.writeHead(200,{"Content-Type":"text/html"}),e.write("Helo"),e.end("<h2>Hi s</h2>")});server.listen(port,hostname,function(){console.log("Server running at http://".concat(hostname,":").concat(port,"/"))});

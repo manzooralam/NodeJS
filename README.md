@@ -38,4 +38,11 @@ Nodemon will start
 #### Step 3: Check the Project folder name will be sitting to the same folder as, ```name: projectName
 -->
 
+## Package.json file:
+Contains all dependencies objects.
+
+#### scripts: The "scripts" property of your package.json file supports a number of built-in scripts. These all can be executed by running  npm run <stage>
+
+
+
 Ref: [https://nodejs.org/en/docs/guides/getting-started-guide/](https://nodejs.org/en/docs/guides/getting-started-guide/)
