@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.",
   "main": "app.js",
-  "scripts": { 
+  "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "manzoor": "nodemon app.js", 
+    "manzoor": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/manzooralam/NodeJS.git"
@@ -19,7 +19,7 @@
     "url": "https://github.com/manzooralam/NodeJS/issues"
   },
   "homepage": "https://github.com/manzooralam/NodeJS#readme",
-  "dependencies": {
-    "nodemon": "^2.0.15"
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
